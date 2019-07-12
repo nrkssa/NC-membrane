@@ -1,5 +1,8 @@
-# NC-membrane
-Code to study the collective interactions of an NC with a cell membrane
-##08/10/16: Minor bug fixes
-1) ```interaction_parameter.cpp``` -- the bondlength for a non-interacting receptor-ligand pairs is set to 0 instead of this->L in the previous version
-2) ```module_mcsmoves.f``` -- A error in using the current receptor locations has been fixed in ```Rosenbluth_Sampling_Bound_Antigens(antigen_no)```
+Biophysical model to simulate the interactions of functionalized nanocarriers with receptor expressing cell membranes. This code was developed as part of my research published in the following articles.
+
+N. Ramakrishnan, David M Eckmann, Portnovo S Ayyaswamy, Vladimir S Muzykantov, Ravi Radhakrishnan
+Biophysically inspired model for functionalized nanocarrier adhesion to cell surface: roles of protein expression and mechanical factors (Journal of Royal Society Open Science 3, 160260 (2016))
+
+Matt McKenzie, Sung Min Ha, Aravind Rammohan, Ravi Radhakrishnan, N. Ramakrishnan*
+Multivalent Binding of a Ligand-Coated Particle: Role of Shape, Size, and Ligand Heterogeneity
+( Biophysical Journal 114, 8, 1830–1846 (2018) )
