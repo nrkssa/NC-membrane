@@ -1,0 +1,16 @@
+160   !Bending Rigidity
+0.0   !czero
+CIRCULAR   !czero_pattern
+0.0   !czero_conc
+4   !annulus_start_ring
+10   !annulus_end_ring
+0.0   !pressure
+PLANAR   !System_Geom
+20   !Sinusoidal height
+2   !Periodicity
+1.25   !blen_scale_factor
+.False.   0
+.False.   !antigen_restart_flag
+20000   !datainterval
+.False.   ! is the frame fixed or not ?
+2.0   ! shadow_size

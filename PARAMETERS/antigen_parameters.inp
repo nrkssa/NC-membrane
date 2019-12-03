@@ -1,0 +1,21 @@
+<total>
+N, 500
+</total>
+<pattern>
+pat, random
+</pattern>
+<type>
+n, 1
+</type>
+<conc>
+0, 1.0
+</conc>
+<radius>
+0, 1.5
+</radius>
+<length>
+0, 19.0
+</length>
+<flexure>
+0, 700
+</flexure>

@@ -1,0 +1,13 @@
+periodic_box_length_height_ratio 2.0
+num_vesicles	1
+temperature	300
+dcd_freq	250
+N	50
+memb_init_bond_length	10
+num_moves	900000000
+antigen_memb_write_interval	900000000
+hist_samp_freq	100000
+binsize_rdf	1.0
+window_conf_interval	100000
+window_antab_data_interval	15000
+osd_print_interval	50000

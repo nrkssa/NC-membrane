@@ -1,0 +1,25 @@
+<antibody>
+ab_type, 1
+ab_radius, 1.5
+ab_length, 15.0
+</antibody>
+
+<nanocarrier>
+nc_shape, sphere
+nc_radius, 50.0
+nc_num_ab, 162
+nc_rstart, 84.0
+nc_hstart, 0.0
+ab_type_conc, 1.0
+ab_mode, random
+</nanocarrier>
+
+<bias>
+bias_mode, N
+biasstrength, 0.5
+biasref, 84.0
+binsize, 0.1
+biasdir, approach
+TI_lambda, 1.0
+</bias>
+
